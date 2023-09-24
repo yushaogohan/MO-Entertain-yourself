@@ -1,4 +1,4 @@
-﻿# MO-Entertain-yourself 是个人开发的一个项目，拥有独特的玩法
+﻿# MO-Entertain-Yourself 是个人自制的一个魔改虐电INI娱乐项目，拥有独特的玩法
 ![logo](/Resources/loadingscreen.png)
 ## 安装方法
 - 请安装[Git](https://git-scm.com/download/win),链接：https://git-scm.com/download/win
