@@ -1,0 +1,11 @@
+If you do not want AutoShore to be applied when placing tiles, you can disable AutoShore (and AutoLat) in the Options menu.
+There are cliff painting tools in the toolbar. Select them, click on the map, hold down the mouse button, and move the mouse into the cliff direction.
+After you have activated the tile/terrain placing mode, you can use the arrow keys to scroll through the different tilesets and tiles.
+Use the show/hide functions to make certain fields or terrain types invisible. Using this, map editing in certain parts of the map becomes much easier.
+With the FinalAlert 2: Mental Omega map editor you can create new skirmish/multiplayer maps and missions for Mental Omega 3.3 and newer.
+Pay attention to the status bar at the bottom of the window. It contains useful information, like object coordinates or properties.
+The brush size can be changed for "Heighten ground", "Flatten ground" and for "Raise/lower single field" too.
+Triggers can be used in multiplayer maps too, however, be wary that some of them (like "Reveal all map") might cause desynchronization.
+To play your custom skirmish/multiplayer maps in Mental Omega, save them in Maps/Custom and change their extension to *.map to make the client read them.
+When placing the Destructible Rocks structure on the map, don't forget to place the Destructible Rocks Base overlay on the same cells.
+The Ambient map lighting setting on official Mental Omega skirmish maps and missions should never exceed the 0.900000 value.

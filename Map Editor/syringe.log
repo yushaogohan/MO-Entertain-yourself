@@ -1,0 +1,38 @@
+[23:06:54] Syringe 0.7.2.0
+[23:06:54] ===============
+
+[23:06:54] WinMain: arguments = ""fa2mo.dat""
+[23:06:54] WinMain: Trying to load executable file "fa2mo.dat"...
+
+[23:06:54] SyringeDebugger::RetrieveInfo: Retrieving info from the executable file...
+[23:06:54] SyringeDebugger::RetrieveInfo: Executable information successfully retrieved.
+[23:06:54] 	exe = fa2mo.dat
+[23:06:54] 	pImLoadLibrary = 0x005912CC
+[23:06:54] 	pImGetProcAddress = 0x005912F8
+[23:06:54] 	pcEntryPoint = 0x00537128
+[23:06:54] 	dwExeSize = 0x00273000
+[23:06:54] 	dwExeCRC = 0x120D1D56
+[23:06:54] 	dwTimestamp = 0x3EDB6BD4
+
+[23:06:54] SyringeDebugger::RetrieveInfo: Opening fa2mo.dat to determine imports.
+[23:06:54] WinMain: SyringeDebugger::FindDLLs();
+
+[23:06:54] SyringeDebugger::FindDLLs: Recognized DLL: "FA2Ext.dll"
+[23:06:54] SyringeDebugger::Handshake: Calling "FA2Ext.dll" ...
+[23:06:54] SyringeDebugger::Handshake: Answers "Found Final Alert 2 version 1.02. Applying FA2Ext 2020-12-09." (0)
+[23:06:54] SyringeDebugger::FindDLLs: Done (18 hooks added).
+
+[23:06:54] WinMain: SyringeDebugger::Run("");
+
+[23:06:54] SyringeDebugger::Run: Running process to debug. cmd = "fa2mo.dat "
+[23:06:54] SyringeDebugger::Run: Allocating 0x584 bytes...
+[23:06:54] SyringeDebugger::Run: pAlloc = 0x000C0000
+[23:06:54] SyringeDebugger::Run: Writing DLL loader & caller code...
+[23:06:54] SyringeDebugger::Run: pcLoadLibrary = 0x000C0000
+[23:06:54] SyringeDebugger::Run: Entering debug loop...
+[23:06:54] SyringeDebugger::HandleException: Finished retrieving proc addresses.
+[23:06:54] SyringeDebugger::HandleException: Creating code hooks.
+[23:06:59] SyringeDebugger::Run: Done with exit code 0 (0).
+
+[23:06:59] WinMain: SyringeDebugger::Run finished.
+[23:06:59] WinMain: Exiting on success.

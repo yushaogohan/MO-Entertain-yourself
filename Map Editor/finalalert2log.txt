@@ -1,0 +1,299 @@
+FinalAlert 2(tm) log file
+----------------------
+
+CFinalSunApp::CFinalSunApp() called
+
+
+
+CLoading::CLoading() called
+CFinalSunDlg::OnInitDialog() called
+Updating menu
+CLoading::Load() called
+
+Initializing FSunPackLib::XCC
+Initializing mix files
+InitMixFiles() called. Available memory: 2147483646
+Loading TibSun.mix success
+Loading local.mix successful
+Loading conquer.mix, temperat.mix, isotemp.mix, isosnow.mix, isourb.mix and cache.mix successful
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo00.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo01.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo02.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo03.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo04.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo05.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo06.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo07.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo08.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo09.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo10.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo11.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo12.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo13.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo14.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo15.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo16.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo17.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo18.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo19.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo20.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo21.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo22.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo23.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo24.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo25.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo26.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo27.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo28.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo29.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo30.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo31.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo32.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo33.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo34.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo35.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo36.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo37.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo38.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo39.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo40.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo41.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo42.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo43.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo44.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo45.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo46.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo47.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo48.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo49.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo50.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo51.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo52.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo53.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo54.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo55.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo56.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo57.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo58.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo59.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo60.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo61.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo62.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo63.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo64.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo65.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo66.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo67.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo68.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo69.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo70.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo71.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo72.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo73.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo74.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo75.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo76.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo77.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo78.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo79.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo80.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo81.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo82.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo83.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo84.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo85.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo86.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo87.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo88.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo89.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo90.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo91.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo92.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo93.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo94.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo95.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo96.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo97.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo98.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\xxpandmo99.mix
+Searching C:\Users\yusha\Desktop\4.8.1\Mental Omega\\ra2md.mix
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\ra2md.mix found: loading conquer.mix, local.mix, snow.mix, generic.mix, urbann.mix, lunar.mix, desert.mix, isotemp.mix, isosnow.mix, isourb.mix, isoubn.mix, isolun.mix, isodes.mix, isoubn.mix, isolun.mix, isodes.mix, isogen.mix, fa2mix01md.mix, ubn.mix, lun.mix, des.mix, 
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo04.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo10.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo11.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo50.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo51.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo66.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo70.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo94.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo95.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo96.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo97.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo98.mix found and loaded
+C:\Users\yusha\Desktop\4.8.1\Mental Omega\\expandmo99.mix found and loaded
+InitMixFiles() finished. Available memory: 2147483646
+Loading palettes
+
+InitPalettes() called
+
+LoadTSIni(Rules.ini,007EDDD8,0) called
+Rules.ini found 
+LoadTSIni(rulesmo.ini,01428AE0,1) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(Art.ini,007EDCA8,0) called
+Art.ini found 
+LoadTSIni(artmo.ini,01428AE0,1) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(Tutorial.ini,007ED960,0) called
+Tutorial.ini found 
+LoadTSIni(Sound99.ini,007EDA78,0) called
+LoadTSIni(Sound98.ini,007EDA78,0) called
+LoadTSIni(Sound97.ini,007EDA78,0) called
+LoadTSIni(Sound96.ini,007EDA78,0) called
+LoadTSIni(Sound95.ini,007EDA78,0) called
+LoadTSIni(Sound94.ini,007EDA78,0) called
+LoadTSIni(Sound93.ini,007EDA78,0) called
+LoadTSIni(Sound92.ini,007EDA78,0) called
+LoadTSIni(Sound91.ini,007EDA78,0) called
+LoadTSIni(Sound90.ini,007EDA78,0) called
+LoadTSIni(Sound89.ini,007EDA78,0) called
+LoadTSIni(Sound88.ini,007EDA78,0) called
+LoadTSIni(Sound87.ini,007EDA78,0) called
+LoadTSIni(Sound86.ini,007EDA78,0) called
+LoadTSIni(Sound85.ini,007EDA78,0) called
+LoadTSIni(Sound84.ini,007EDA78,0) called
+LoadTSIni(Sound83.ini,007EDA78,0) called
+LoadTSIni(Sound82.ini,007EDA78,0) called
+LoadTSIni(Sound81.ini,007EDA78,0) called
+LoadTSIni(Sound80.ini,007EDA78,0) called
+LoadTSIni(Sound79.ini,007EDA78,0) called
+LoadTSIni(Sound78.ini,007EDA78,0) called
+LoadTSIni(Sound77.ini,007EDA78,0) called
+LoadTSIni(Sound76.ini,007EDA78,0) called
+LoadTSIni(Sound75.ini,007EDA78,0) called
+LoadTSIni(Sound74.ini,007EDA78,0) called
+LoadTSIni(Sound73.ini,007EDA78,0) called
+LoadTSIni(Sound72.ini,007EDA78,0) called
+LoadTSIni(Sound71.ini,007EDA78,0) called
+LoadTSIni(Sound70.ini,007EDA78,0) called
+LoadTSIni(Sound69.ini,007EDA78,0) called
+LoadTSIni(Sound68.ini,007EDA78,0) called
+LoadTSIni(Sound67.ini,007EDA78,0) called
+LoadTSIni(Sound66.ini,007EDA78,0) called
+LoadTSIni(Sound65.ini,007EDA78,0) called
+LoadTSIni(Sound64.ini,007EDA78,0) called
+LoadTSIni(Sound63.ini,007EDA78,0) called
+LoadTSIni(Sound62.ini,007EDA78,0) called
+LoadTSIni(Sound61.ini,007EDA78,0) called
+LoadTSIni(Sound60.ini,007EDA78,0) called
+LoadTSIni(Sound59.ini,007EDA78,0) called
+LoadTSIni(Sound58.ini,007EDA78,0) called
+LoadTSIni(Sound57.ini,007EDA78,0) called
+LoadTSIni(Sound56.ini,007EDA78,0) called
+LoadTSIni(Sound55.ini,007EDA78,0) called
+LoadTSIni(Sound54.ini,007EDA78,0) called
+LoadTSIni(Sound53.ini,007EDA78,0) called
+LoadTSIni(Sound52.ini,007EDA78,0) called
+LoadTSIni(Sound51.ini,007EDA78,0) called
+LoadTSIni(Sound50.ini,007EDA78,0) called
+LoadTSIni(Sound49.ini,007EDA78,0) called
+LoadTSIni(Sound48.ini,007EDA78,0) called
+LoadTSIni(Sound47.ini,007EDA78,0) called
+LoadTSIni(Sound46.ini,007EDA78,0) called
+LoadTSIni(Sound45.ini,007EDA78,0) called
+LoadTSIni(Sound44.ini,007EDA78,0) called
+LoadTSIni(Sound43.ini,007EDA78,0) called
+LoadTSIni(Sound42.ini,007EDA78,0) called
+LoadTSIni(Sound41.ini,007EDA78,0) called
+LoadTSIni(Sound40.ini,007EDA78,0) called
+LoadTSIni(Sound39.ini,007EDA78,0) called
+LoadTSIni(Sound38.ini,007EDA78,0) called
+LoadTSIni(Sound37.ini,007EDA78,0) called
+LoadTSIni(Sound36.ini,007EDA78,0) called
+LoadTSIni(Sound35.ini,007EDA78,0) called
+LoadTSIni(Sound34.ini,007EDA78,0) called
+LoadTSIni(Sound33.ini,007EDA78,0) called
+LoadTSIni(Sound32.ini,007EDA78,0) called
+LoadTSIni(Sound31.ini,007EDA78,0) called
+LoadTSIni(Sound30.ini,007EDA78,0) called
+LoadTSIni(Sound29.ini,007EDA78,0) called
+LoadTSIni(Sound28.ini,007EDA78,0) called
+LoadTSIni(Sound27.ini,007EDA78,0) called
+LoadTSIni(Sound26.ini,007EDA78,0) called
+LoadTSIni(Sound25.ini,007EDA78,0) called
+LoadTSIni(Sound24.ini,007EDA78,0) called
+LoadTSIni(Sound23.ini,007EDA78,0) called
+LoadTSIni(Sound22.ini,007EDA78,0) called
+LoadTSIni(Sound21.ini,007EDA78,0) called
+LoadTSIni(Sound20.ini,007EDA78,0) called
+LoadTSIni(Sound19.ini,007EDA78,0) called
+LoadTSIni(Sound18.ini,007EDA78,0) called
+LoadTSIni(Sound17.ini,007EDA78,0) called
+LoadTSIni(Sound16.ini,007EDA78,0) called
+LoadTSIni(Sound15.ini,007EDA78,0) called
+LoadTSIni(Sound14.ini,007EDA78,0) called
+LoadTSIni(Sound13.ini,007EDA78,0) called
+LoadTSIni(Sound12.ini,007EDA78,0) called
+LoadTSIni(Sound11.ini,007EDA78,0) called
+LoadTSIni(Sound10.ini,007EDA78,0) called
+LoadTSIni(Sound09.ini,007EDA78,0) called
+LoadTSIni(Sound08.ini,007EDA78,0) called
+LoadTSIni(Sound07.ini,007EDA78,0) called
+LoadTSIni(Sound06.ini,007EDA78,0) called
+LoadTSIni(Sound05.ini,007EDA78,0) called
+LoadTSIni(Sound04.ini,007EDA78,0) called
+LoadTSIni(Sound03.ini,007EDA78,0) called
+LoadTSIni(Sound02.ini,007EDA78,0) called
+LoadTSIni(Sound01.ini,007EDA78,0) called
+LoadTSIni(soundmo.ini,007EDA78,0) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(evamo.ini,007ED848,0) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(thememo.ini,007ED730,0) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(Ai.ini,007EDB90,0) called
+Ai.ini found 
+LoadTSIni(aimo.ini,007EDB90,1) called
+aimo.ini found 
+LoadTSIni(Temperat.ini,007ED3E8,0) called
+Temperat.ini found 
+LoadTSIni(TemperatMO.ini,007ED3E8,1) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(Snow.ini,007ED2D0,0) called
+Snow.ini found 
+LoadTSIni(SnowMO.ini,007ED2D0,1) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(Urban.ini,007ED1B8,0) called
+Urban.ini found 
+LoadTSIni(UrbanMO.ini,007ED1B8,1) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(UrbanNMO.ini,007ED0A0,0) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(LunarMO.ini,007ECF88,0) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadTSIni(DesertMO.ini,007ECE70,0) called
+File found in TS directory (C:\Users\yusha\Desktop\4.8.1\Mental Omega\)
+LoadStrings() executing
+LoadStrings() loading from mix
+
+
+DirectDrawCreate() will be called now
+DirectDrawCreate() successful
+
+Now querying the DirectX 7 or 6 interface
+QueryInterface() successful
+
+Now setting cooperative level
+SetCooperativeLevel() successful
+
+Creating primary surface
+Return code: 0
+CreateSurface() successful
+
+Creating backbuffer surface
+CreateSurface() successful
+
+Now creating clipper
+CreateClipper() successful
+
+CLoading::~CLoading finished. Available memory: 2147483646
