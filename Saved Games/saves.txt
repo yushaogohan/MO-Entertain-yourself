@@ -1,0 +1,3 @@
+Saving & loading of missions in Mental Omega is currently not supported as the Ares Expansion DLL is still being developed.
+
+Reenabling the feature every time something new is added to the Ares DLL is not an effective way to develop it so its developers have disabled the feature for now.
